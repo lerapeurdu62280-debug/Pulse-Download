@@ -10,7 +10,7 @@
 
 [![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_2.0.0-5FD4E6?style=for-the-badge&labelColor=12141B)](https://github.com/lerapeurdu62280-debug/Pulse-Download/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-configuration-requise)
-[![Gratuit](https://img.shields.io/badge/version-gratuite_+_Premium-D9C7A1?style=for-the-badge&labelColor=12141B)](#-gratuit-ou-premium-)
+[![Premium](https://img.shields.io/badge/✦_Premium-19_€_à_vie-D9C7A1?style=for-the-badge&labelColor=12141B)](#-gratuit-ou-premium-)
 
 <br>
 
@@ -83,9 +83,9 @@ Un PC qui ralentit, chauffe ou se remplit ne prévient pas : il faut plusieurs o
 
 ## 💎 Gratuit ou Premium ?
 
-Pulse est **gratuit pour toujours** : tout ce qui est décrit ci-dessus fonctionne sans licence, sans limite de durée. La version **Premium** ajoute trois fonctions avancées, débloquées **à vie** sur votre ordinateur.
+Pulse est **gratuit pour toujours** : tout ce qui est décrit ci-dessus fonctionne sans licence, sans limite de durée. La version **Premium** ajoute trois fonctions avancées, débloquées **à vie** sur votre ordinateur, pour **19 €** en une seule fois : pas d'abonnement.
 
-| | Gratuit | ✦ Premium |
+| | Gratuit | ✦ Premium · 19 € à vie |
 |---|:---:|:---:|
 | Diagnostic en direct, températures, état des disques | ✅ | ✅ |
 | Nettoyage sans risque, gros fichiers | ✅ | ✅ |
@@ -94,13 +94,14 @@ Pulse est **gratuit pour toujours** : tout ce qui est décrit ci-dessus fonction
 | **Surveillance et alertes** : courbes de températures sur 24 h, alerte en cas de surchauffe ou de disque qui faiblit, démarrage avec Windows | | ✅ |
 | **Optimisation en un clic** : profils Jeu, Bureautique, PC ancien, retour exact à l'état d'origine, nettoyage planifié | | ✅ |
 
-### Obtenir Premium
+### Obtenir Premium · 19 €
 
 1. Ouvrez l'onglet **Licence** de Pulse et cliquez sur **Copier** à côté de votre **code machine**.
 2. Envoyez ce code à **S.O.S INFO LUDO** : ✉️ **s.o.sinfoludo@gmail.com** · 📞 **06 59 59 05 15**.
-3. Collez la licence reçue dans l'onglet **Licence** (ou ouvrez le fichier `.lic`), puis cliquez sur **Activer Premium**.
+3. Réglez **19 €** : par **carte bancaire** (lien de paiement sécurisé Zettle envoyé par e-mail), par **virement**, ou en **espèces** à l'atelier de Boulogne-sur-Mer.
+4. Vous recevez votre licence par e-mail : collez-la dans l'onglet **Licence** (ou ouvrez le fichier `.lic`), puis cliquez sur **Activer Premium**.
 
-> La licence est vérifiée **sur votre PC, sans connexion Internet**, et reste valable à vie sur cet ordinateur.
+> La licence est vérifiée **sur votre PC, sans connexion Internet**, et reste valable à vie sur cet ordinateur. Micro-entreprise : TVA non applicable, article 293 B du CGI.
 
 <br>
 
